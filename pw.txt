@@ -1,3 +1,7 @@
+rule :
+
+- <username> : <password>;
+
 default :
 
 - star to star and number and the following;
@@ -15,5 +19,5 @@ google :
 
 instagram :
 
-- Bt
+- hadmes.store : Bt;
 
