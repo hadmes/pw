@@ -1,0 +1,2 @@
+# pw
+kumpulan password pribadi
